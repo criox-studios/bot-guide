@@ -4,8 +4,6 @@ module.exports = {
     title: "Hello, VuePress!",
     description: "This is my first VuePress site",
 
-    base: "/guide/",
-
     // theme and its config
     theme: "@vuepress/theme-default",
     themeConfig: {
