@@ -1,0 +1,23 @@
+{
+    "name": "bot-guide",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/criox-studios/bot-guide.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/criox-studios/bot-guide/issues"
+    },
+    "homepage": "https://github.com/criox-studios/bot-guide#readme",
+    "devDependencies": {
+        "vuepress": "^2.0.0-beta.39"
+    }
+}
