@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Test",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:165080335e4,contributors:[{name:"Freshes Faultier",email:"cutulo157@gmail.com",commits:1}]},filePathRelative:"README.md"};export{e as data};
